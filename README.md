@@ -1,1 +1,1 @@
-# yuva-azure-project-tf
+This repository contains Terraform configurations for deploying resources in Microsoft Azure. The aim is to provide a set of reusable Terraform modules that can be used to deploy a scalable and maintainable infrastructure in Azure.
